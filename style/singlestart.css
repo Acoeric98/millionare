@@ -1,0 +1,26 @@
+ body { background-color: #000; color: #0f0; font-family: 'Segoe UI', sans-serif; text-align: center; padding: 3rem;       background-image: url("/millionare/img/milliomos.png");
+      background-repeat: no-repeat;
+      background-size: cover;}
+    h1 { font-size: 2rem; margin-bottom: 2rem; }
+    input {
+      padding: 1rem;
+      font-size: 1.5rem;
+      width: 80%;
+      max-width: 300px;
+      margin-bottom: 2rem;
+      text-align: center;
+      border-radius: 8px;
+      border: 2px solid #0f0;
+      background-color: #111;
+      color: #0f0;
+    }
+    button {
+      padding: 1rem 2rem;
+      font-size: 1.5rem;
+      border: 2px solid #0f0;
+      background-color: #222;
+      color: #0f0;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    button:hover { background-color: #0f0; color: #000; }

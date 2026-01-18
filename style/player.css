@@ -1,0 +1,174 @@
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #000428;
+      background-image: url("/millionare/img/milliomos.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: #0ff;
+      text-align: center;
+      padding: 2rem;
+    }
+
+    .lifelines {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .lifelines button {
+      font-size: 1.5rem;
+      padding: 0.7rem 1.2rem;
+      border-radius: 12px;
+      border: 2px solid gold;
+      background: radial-gradient(circle, #003366 0%, #001a33 100%);
+      color: #00ffff;
+      cursor: pointer;
+      box-shadow: 0 0 10px gold inset;
+      transition: all 0.3s ease;
+    }
+
+    .lifelines button:hover {
+      background: gold;
+      color: #000;
+      transform: scale(1.1);
+    }
+
+    .lifelines button:disabled {
+      background: #444;
+      border-color: gray;
+      color: #888;
+      box-shadow: none;
+      cursor: not-allowed;
+    }
+
+    .question {
+      font-size: 2.2rem;
+      margin-bottom: 3rem;
+      color: #00ffff;
+      background-color: #001f3f;
+      border: 3px solid gold;
+      padding: 1rem;
+      border-radius: 15px;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
+    }
+
+    .answers {
+      max-width: 800px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+    }
+
+    .answers button {
+      width: 100%;
+      max-width: 400px;
+      min-height: 80px;
+      padding: 1rem;
+      font-size: 1.3rem;
+      background: radial-gradient(circle, #002244 0%, #000d1a 100%);
+      color: #00ffff;
+      border: 2px solid gold;
+      border-radius: 50px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 0 10px #000, 0 0 10px gold inset;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+    }
+
+    .answers button:hover {
+      background: radial-gradient(circle, #004488 0%, #000d1a 100%);
+      color: #fff;
+      transform: scale(1.02);
+    }
+
+    button.selected {
+      animation: pulseOrange 1s infinite;
+      color: #fff;
+      font-weight: bold;
+      border-color: orange;
+    }
+
+    @keyframes pulseOrange {
+      0%, 100% {
+        background-color: #002244;
+        box-shadow: 0 0 15px orange;
+      }
+      50% {
+        background-color: orange;
+        box-shadow: 0 0 30px orange;
+      }
+    }
+
+    button.correct {
+      animation: glowGreen 1s infinite;
+      color: #000;
+      font-weight: bold;
+    }
+
+    @keyframes glowGreen {
+      0%   { background-color: #00cc00; box-shadow: 0 0 15px limegreen; }
+      50%  { background-color: #66ff66; box-shadow: 0 0 30px limegreen; }
+      100% { background-color: #00cc00; box-shadow: 0 0 15px limegreen; }
+    }
+
+    button.incorrect {
+      background-color: crimson;
+      color: #fff;
+      border: 2px solid red;
+      box-shadow: none;
+    }
+
+    .controls {
+      margin-top: 2rem;
+    }
+
+    .controls button {
+      margin: 0.5rem;
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      border-radius: 10px;
+      border: 2px solid gold;
+      background: #111;
+      color: gold;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    .controls button:hover {
+      background: gold;
+      color: #111;
+    }
+
+    .timer {
+      margin-top: 1.5rem;
+      font-size: 1.4rem;
+      color: yellow;
+      text-shadow: 0 0 5px #000;
+    }
+        #continuePrompt {
+      display: none;
+      margin-top: 2rem;
+    }
+    #continuePrompt button {
+      margin: 0.5rem;
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      border-radius: 10px;
+      border: 2px solid gold;
+      background: #222;
+      color: gold;
+      cursor: pointer;
+    }
+    #continuePrompt button:hover {
+      background: gold;
+      color: black;
+    }
+    

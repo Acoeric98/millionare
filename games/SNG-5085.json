@@ -1,0 +1,48 @@
+{
+  "mode": "single",
+  "question_order": [
+    77,
+    91,
+    135,
+    68,
+    19,
+    82,
+    25,
+    117,
+    30,
+    98,
+    79,
+    154,
+    145,
+    131,
+    97
+  ],
+  "ready_for_next": false,
+  "current_index": 5,
+  "player_name": "Vakpali1",
+  "used_helps": {
+    "fifty": false,
+    "phone": false,
+    "audience": false
+  },
+  "answers": {
+    "0": "A",
+    "1": "A",
+    "2": "A",
+    "3": "A",
+    "4": "D",
+    "5": "B"
+  },
+  "audience_votes": {
+    "A": 0,
+    "B": 1,
+    "C": 0,
+    "D": 0
+  },
+  "status": "answered",
+  "score": 600000,
+  "check_performed": false,
+  "help_history": [],
+  "check_feedback_visible": false,
+  "fifty_removed": []
+}

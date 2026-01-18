@@ -1,0 +1,1564 @@
+[
+    {
+        "id": 1,
+        "question": "Mennyi a maximális mana ALAP ESETBEN, amivel egy játékos rendelkezhet a Hearthstone-ban?",
+        "answers": {
+            "A": "15",
+            "B": "12",
+            "C": "10",
+            "D": "20"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 2,
+        "question": "Melyik class használja a \"Lesser Heal\" hero powert?",
+        "answers": {
+            "A": "Warrior",
+            "B": "Paladin",
+            "C": "Priest",
+            "D": "Druid"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 3,
+        "question": "Melyik kulcsszó teszi lehetővé, hogy egy minion azonnal támadjon?",
+        "answers": {
+            "A": "Divine Shield",
+            "B": "Rush",
+            "C": "Stealth",
+            "D": "Taunt"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 4,
+        "question": "Melyik kiegészítő vezette be a Death Knight hős kártyákat?",
+        "answers": {
+            "A": "Kobolds and Catacombs",
+            "B": "March of the Lich King",
+            "C": "The Witchwood",
+            "D": "The Grand Tournament"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 5,
+        "question": "Melyik kártya mondja ki, hogy \"Destroy the enemy hero\", ha bizonyos feltételek teljesülnek?",
+        "answers": {
+            "A": "Mecha'thun",
+            "B": "Yogg-Saron, Hope's End",
+            "C": "C'Thun",
+            "D": "Reno Jackson"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 6,
+        "question": "Melyik class használhatja a \"Savage Roar\" varázslatot?",
+        "answers": {
+            "A": "Mage",
+            "B": "Hunter",
+            "C": "Druid",
+            "D": "Rogue"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 7,
+        "question": "Mit jelent a „Stealth” kulcsszó?",
+        "answers": {
+            "A": "Nem támadhat",
+            "B": "Immúnis a varázslatokra",
+            "C": "Nem lehet célpont, amíg nem támad",
+            "D": "Minden körben 2 életpontot gyógyít"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 8,
+        "question": "Melyik legendás kártya alakul át minden körben, amikor a kezedben van, egy másik szörnyeteggé?",
+        "answers": {
+            "A": "King Krush",
+            "B": "Dinotamer Brann",
+            "C": "Shifter Zerus",
+            "D": "Emeriss"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 9,
+        "question": "Mennyi Ragnaros, the Firelord alapélete a Battlegroundsban?",
+        "answers": {
+            "A": "40",
+            "B": "50",
+            "C": "60",
+            "D": "30"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 10,
+        "question": "Melyik kártya képes megidézni az „Dream” kártyákat a kezedben?",
+        "answers": {
+            "A": "Ysera",
+            "B": "Alexstrasza",
+            "C": "Deathwing",
+            "D": "Malygos"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 11,
+        "question": "Melyik class rendelkezik az \"Animal Companion\" kártyával?",
+        "answers": {
+            "A": "Paladin",
+            "B": "Hunter",
+            "C": "Shaman",
+            "D": "Warlock"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 12,
+        "question": "Melyik expansion vezette be először a Questeket?",
+        "answers": {
+            "A": "Un'Goro",
+            "B": "Frozen Throne",
+            "C": "Descent of Dragons",
+            "D": "Rastakhan’s Rumble"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 13,
+        "question": "Milyen kulcsszó ad egy minionnak egyszeri védelmet a sebzés ellen?",
+        "answers": {
+            "A": "Windfury",
+            "B": "Divine Shield",
+            "C": "Poisonous",
+            "D": "Taunt"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 14,
+        "question": "Melyik hero power teszi lehetővé, hogy húzz egy kártyát?",
+        "answers": {
+            "A": "Fireblast",
+            "B": "Life Tap",
+            "C": "Dagger Mastery",
+            "D": "Reinforce"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 15,
+        "question": "Melyik játékmódban kell véletlenszerűen kapott lapokból építeni paklit?",
+        "answers": {
+            "A": "Battlegrounds",
+            "B": "Tavern Brawl",
+            "C": "Arena",
+            "D": "Mercenaries"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 16,
+        "question": "Melyik Old God kártya megköveteli, hogy 10 varázslatot használj a játék során?",
+        "answers": {
+            "A": "Yogg-Saron, Master of Fate",
+            "B": "Yogg-Saron, Unleashed",
+            "C": "Yogg-Saron, Hope's End",
+            "D": "Yogg-Saron, Spiral of Madness"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 17,
+        "question": "Melyik kártyatípus nem létezhet a paklidban, de generálható?",
+        "answers": {
+            "A": "Legendary",
+            "B": "Hero",
+            "C": "Token",
+            "D": "Epic"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 18,
+        "question": "Melyik minion kör végi effectje a „Okozz 3 sebzést minden más karakternek”?",
+        "answers": {
+            "A": "Abomination",
+            "B": "Baron Geddon",
+            "C": "Mad Bomber",
+            "D": "Dread Infernal"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 19,
+        "question": "Melyik minion képes megduplázni magát sebződéskor?",
+        "answers": {
+            "A": "Saronite Chain Gang",
+            "B": "Nerubian Egg",
+            "C": "Devilsaur Egg",
+            "D": "Grim Patron"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 20,
+        "question": "Mennyi lehet a maximális számú minion a tábládon?",
+        "answers": {
+            "A": "6",
+            "B": "8",
+            "C": "7",
+            "D": "9"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 21,
+        "question": "Melyik Ragnaros the firelord ikonikus belépője?",
+        "answers": {
+            "A": "By fire be purged.",
+            "B": "Fire by be purged.",
+            "C": "be purged by fire",
+            "D": "Purged by fire"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 22,
+        "question": "Melyik class férhetett hozzá a \"Kingsbane\" kártyához ?",
+        "answers": {
+            "A": "Warrior",
+            "B": "Rogue",
+            "C": "Hunter",
+            "D": "Druid"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 23,
+        "question": "Melyik kártya képesség erősítheti a kezedben lévő kártyát annak függvényében, hogy hány minionod hal meg a boardon",
+        "answers": {
+            "A": "Corrupt",
+            "B": "Finale",
+            "C": "Infuse",
+            "D": "Overkill"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 24,
+        "question": "Melyik kártya szövegében olvasható a \"I have come to understand: there IS no balance.\"?",
+        "answers": {
+            "A": "Malfurion the Pestilent",
+            "B": "Lord Jaraxxus",
+            "C": "Gul'dan",
+            "D": "Deathwing"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 25,
+        "question": "A Battlegroundsban mi a „Mama Bear” kocsmai szintje?",
+        "answers": {
+            "A": "5",
+            "B": "3",
+            "C": "6",
+            "D": "4"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 26,
+        "question": "Melyik legendás minion kap +2/+2 -őt, amikor varázslatot castolsz el ebben a körben?",
+        "answers": {
+            "A": "Fandral Staghelm",
+            "B": "Edwin VanCleef",
+            "C": "Gadgetzan Auctioneer",
+            "D": "Archmage Antonidas"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 27,
+        "question": "Melyik class-nak volt az első olyan küldetéssorozata, amely a spellekre összpontosított?",
+        "answers": {
+            "A": "Priest",
+            "B": "Mage",
+            "C": "Shaman",
+            "D": "Warrior"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 28,
+        "question": "Melyik expansion  vezette be a „Honorable Kill” kulcsszót?",
+        "answers": {
+            "A": "United in Stormwind",
+            "B": "Voyage to the Sunken City",
+            "C": "Fractured in Alterac Valley",
+            "D": "Festival of Legends"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 29,
+        "question": "Melyik törzshöz kötődik a „Rakanishu” Battlegrounds hős?",
+        "answers": {
+            "A": "Elemental",
+            "B": "Mech",
+            "C": "Beast",
+            "D": "Murloc"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 30,
+        "question": "Mi volt az első hős skin a Paladin class számára?",
+        "answers": {
+            "A": "Sir Annoy-O",
+            "B": "Lady Liadrin",
+            "C": "Arthas",
+            "D": "Uther the Lightbringer"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 31,
+        "question": "Melyik varázslat képes az összes miniont véletlenszerűen eggyel több költségűvé alakítani?",
+        "answers": {
+            "A": "Devolve",
+            "B": "Evolve",
+            "C": "Polymorph",
+            "D": "Hex"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 32,
+        "question": "Ki mondja a \"You are not prepared!\" sort, amikor a csatatérre lép?",
+        "answers": {
+            "A": "Kael'thas Sunstrider",
+            "B": "Gul'dan",
+            "C": "Illidan Stormrage",
+            "D": "Malfurion"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 33,
+        "question": "Melyik törzset adták hozzá a Hearthstone kártyákhoz sokkal később, bár a minionok már korábban is léteztek?",
+        "answers": {
+            "A": "Dragon",
+            "B": "Undead",
+            "C": "Beast",
+            "D": "Mech"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 34,
+        "question": "Mennyi a „Fireball” alap manaköltsége a Hearthstone-ban?",
+        "answers": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "3"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 35,
+        "question": "Az arénában általában hány választási lehetőséged van egy-egy kártyaválasztásnál?",
+        "answers": {
+            "A": "4",
+            "B": "2",
+            "C": "3",
+            "D": "5"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 36,
+        "question": "Melyik kulcsszó hatására lehet a megmaradt sebzést az ellenséges hősbe lőni?",
+        "answers": {
+            "A": "Cleave",
+            "B": "Overkill",
+            "C": "Overwhelm",
+            "D": "Excess damage"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 37,
+        "question": "Melyik kártya mondja: „Idézz meg egy véletlenszerű démont a kezedből”?",
+        "answers": {
+            "A": "Void Lord",
+            "B": "Fel Lord Betrug",
+            "C": "Skull of the Man'ari",
+            "D": "Fel Reaver"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 38,
+        "question": "Melyik hős vezetett be egy mechanikát, amely „ellopta” a kártyákat az ellenfél paklijából a Battlegrounds-ba?",
+        "answers": {
+            "A": "Tess Greymane",
+            "B": "Edwin VanCleef",
+            "C": "Captain Hooktusk",
+            "D": "Illidan Stormrage"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 39,
+        "question": "Hány különböző verziója létezik Reno Jacksonnak az összes játékmódban?",
+        "answers": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 40,
+        "question": "Melyik expansion adta hozzá a „Corrupt” kulcsszót?",
+        "answers": {
+            "A": "Madness at the Darkmoon Faire",
+            "B": "Scholomance Academy",
+            "C": "Forged in the Barrens",
+            "D": "Fractured in Alterac Valley"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 61,
+        "question": "Melyik legendás kártya alakítja a minionjaidat véletlenszerű Legendary minionná?",
+        "answers": {
+            "A": "Thing from Below",
+            "B": "Al'Akir the Windlord",
+            "C": "The Lurker Below",
+            "D": "The Storm Bringer"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 62,
+        "question": "Melyik szett vezette be a „Jáde gólem” mechanikát?",
+        "answers": {
+            "A": "Whispers of the Old Gods",
+            "B": "Mean Streets of Gadgetzan",
+            "C": "Kobolds and Catacombs",
+            "D": "Journey to Un'Goro"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 63,
+        "question": "Melyik Wild-exkluzív varázslat szövege: „Pusztíts el minden miniont. Dobdj el 2 lapot”?",
+        "answers": {
+            "A": "Twisting Nether",
+            "B": "Cataclysm",
+            "C": "Hellfire",
+            "D": "Doom!"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 64,
+        "question": "Melyik minion volt hírhedt arról, hogy a „Big priest” végtelenül feltámasztotta?",
+        "answers": {
+            "A": "Obsidian Statue",
+            "B": "Ragnaros the Firelord",
+            "C": "The Lich King",
+            "D": "Ysera"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 65,
+        "question": "Mi a \"Dirty Rat\" battlecry képessége",
+        "answers": {
+            "A": "Okozz 2 sebzést minden ellenségnek",
+            "B": "Idézz meg egy véletlenszerű miniont az ellenfeled kezéből.",
+            "C": "Fedezz fel egy taunt miniont",
+            "D": "Átváltozik egy véletlenszerű ellenséges minion másolatává."
+        },
+        "correct": "B"
+    },
+    {
+        "id": 66,
+        "question": "Melyik kártyát vonták be a Hall of Famedbe (Standardból eltávolítva), mert túl erős volt az agresszív paklikban?",
+        "answers": {
+            "A": "Leper Gnome",
+            "B": "Knife Juggler",
+            "C": "Doomguard",
+            "D": "Argent Squire"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 67,
+        "question": "Melyik kulcsszó körül forogtak a „Handbuff Paladin” paklik a Mean Streets of Gadgetzan alatt?",
+        "answers": {
+            "A": "Spellburst",
+            "B": "Battlecry",
+            "C": "Inspire",
+            "D": "Give"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 68,
+        "question": "Melyik varázslat képes 10 véletlenszerű varázslatot varázsolni?",
+        "answers": {
+            "A": "Puzzle Box of Yogg-Saron",
+            "B": "The Amazing Reno",
+            "C": "Deck of Lunacy",
+            "D": "Yoggsaron, Master of Fate"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 69,
+        "question": "Milyen statisztikával rendlkezett EREDETILEG az „Innervate” varázslat?",
+        "answers": {
+            "A": "0 mana, gain 2 mana crystals",
+            "B": "1 mana, gain 1 mana crystal",
+            "C": "0 mana, gain 1 mana crystal",
+            "D": "1 mana, gain 2 mana crystals"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 70,
+        "question": "Melyik druida varázslatot csökkentették 6 manáról 5 manára, mert CSAK 3 Treant-et idézett meg?",
+        "answers": {
+            "A": "Force of Nature",
+            "B": "Soul of the Forest",
+            "C": "Wisps of the Old Gods",
+            "D": "Landscaping"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 71,
+        "question": "Melyik kártya NEM volt része a „klasszikus Freeze Mage” kombónak?",
+        "answers": {
+            "A": "Frostbolt",
+            "B": "Ice Lance",
+            "C": "Fireball",
+            "D": "Ice Barrier"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 72,
+        "question": "Melyik klasszikus legendás játéknak volt a szövege: „A köröd végén okozz 8 sebzést egy véletlenszerű ellenségnek”?",
+        "answers": {
+            "A": "Deathwing",
+            "B": "Ragnaros the Firelord",
+            "C": "Malygos",
+            "D": "Alexstrasza"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 73,
+        "question": "Melyik varázslat húz 3 kártyát és okoz 3 sebzést a caster-nek?",
+        "answers": {
+            "A": "Life Tap",
+            "B": "Sense Demons",
+            "C": "Doomguard",
+            "D": "Backfire"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 74,
+        "question": "Melyik kártya ára (0), ha ebben a játékban 12 varázslatot használtál?",
+        "answers": {
+            "A": "Preparation",
+            "B": "Arcane Giant",
+            "C": "Time Warp",
+            "D": "Arcane Amplifier"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 75,
+        "question": "Melyik állítás igaz minden Battlecry típusú képességre?",
+        "answers": {
+            "A": "Csak akkor használható, ha nincs másik minion a pályán",
+            "B": "Csak akkor működik, ha a lény túléli a kijátszást",
+            "C": "Minden kör elején automatikusan aktiválódik",
+            "D": "A lény kijátszásakor egyszeri hatásként lép működésbe"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 76,
+        "question": "Melyik osztálynak volt eredetileg a „Steady Shot” hero power-je?",
+        "answers": {
+            "A": "Hunter",
+            "B": "Warrior",
+            "C": "Paladin",
+            "D": "Rogue"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 77,
+        "question": "Melyik mage kártya fagyasztja be az összes ellenséges miniont?",
+        "answers": {
+            "A": "Frost Nova",
+            "B": "Blizzard",
+            "C": "Cone of Cold",
+            "D": "Flamestrike"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 78,
+        "question": "Melyik kulcsszó kényszeríti az ellenséges minionokat, hogy megtámadják ezt a miniont, ha képesek rá?",
+        "answers": {
+            "A": "Stealth",
+            "B": "Divine Shield",
+            "C": "Taunt",
+            "D": "Overkill"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 79,
+        "question": "Melyik minionnak van Deathrattle-ja: „Idézz meg egy 2/2 Slime-ot”?",
+        "answers": {
+            "A": "Mire Keeper",
+            "B": "Haunted Creeper",
+            "C": "Nerubian Egg",
+            "D": "Piloted Shredder"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 80,
+        "question": "Melyik sámán spell overload-ol téged +2 manával?",
+        "answers": {
+            "A": "Lava Burst",
+            "B": "Lightning Bolt",
+            "C": "Doomhammer",
+            "D": "Ancestral Spirit"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 81,
+        "question": "Melyik kártyának volt a flavor text-je „\"He's on fire! Boomshakalaka!”?",
+        "answers": {
+            "A": "Flamewreathed Faceless",
+            "B": "Thing from Below",
+            "C": "Faceless Manipulator",
+            "D": "Earth Elemental"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 82,
+        "question": "Mennyi volt a „Call to Arms” manaköltsége az újítás előtti formában?",
+        "answers": {
+            "A": "4",
+            "B": "5",
+            "C": "3",
+            "D": "6"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 83,
+        "question": "Mennyi volt a „Patches the Pirate” health-je a nerfelés előtt?",
+        "answers": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 84,
+        "question": "Melyik expansion vezette be az „Adapt” kulcsszót?",
+        "answers": {
+            "A": "Un'Goro",
+            "B": "Journey to Un'Goro",
+            "C": "Knights of the Frozen Throne",
+            "D": "Kobolds and Catacombs"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 85,
+        "question": "Melyik klasszikus kártyát nerfelték, hogy elveszítette a „Charge”-ot és megkapta a „Rush”-t? (2021-ben kapta a rush-t 2023-ban vissza kapta a charge-ot)",
+        "answers": {
+            "A": "Leeroy Jenkins",
+            "B": "Stonetusk Boar",
+            "C": "Charge (the spell)",
+            "D": "Warsong Commander"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 86,
+        "question": "A buff után mit csinál a „Warsong Commander”?",
+        "answers": {
+            "A": "A leidézet minionjaid rush-t kapnak",
+            "B": "A 3 vagy annál kisebb támadással rendelkező megidézett minionjaid charge-ok lesznek.",
+            "C": "A 2 vagy kevesebb támadással rendelkező minionjaid charge-ok lesznek.",
+            "D": "A megidézett minionjaidnak +1 attack-juk van."
+        },
+        "correct": "B"
+    },
+    {
+        "id": 87,
+        "question": "Melyik sorozat vezette be a „Magnetic” kulcsszót?",
+        "answers": {
+            "A": "The Boomsday Project",
+            "B": "Rise of Shadows",
+            "C": "Saviors of Uldum",
+            "D": "Descent of Dragons"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 88,
+        "question": "A „Naga Sea Witch” Bug előtti interakciójában mennyi manába kerülne a „Molten Giant” teljes életerővel a hiba után?",
+        "answers": {
+            "A": "0",
+            "B": "5",
+            "C": "20",
+            "D": "25"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 89,
+        "question": "Melyik kártya nem volt soha Hall of Fame-ed?",
+        "answers": {
+            "A": "Azure Drake",
+            "B": "Ice Block",
+            "C": "Doomguard",
+            "D": "Reno Jackson"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 90,
+        "question": "Melyik kártyának volt a hatása: „Pusztítsd el ellenfeled fegyverét és szerezd meg annak attackját armorba?",
+        "answers": {
+            "A": "Harrison Jones",
+            "B": "Gluttonous Ooze",
+            "C": "Acidic Swamp Ooze",
+            "D": "Kobold Stickyfinger"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 91,
+        "question": "Mikor jelent meg a „Whispers of the Old Gods”?",
+        "answers": {
+            "A": "2016 április",
+            "B": "2016 augusztus",
+            "C": "2017. április",
+            "D": "2016 december"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 92,
+        "question": "Melyik régi klasszikus neutral miniont párosították gyakran a „Power Overwhelming”-gel egy OTK kombóhoz?",
+        "answers": {
+            "A": "Elwynn boar",
+            "B": "Stonetusk Boar",
+            "C": "Arcane Golem",
+            "D": "Argent Commander"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 93,
+        "question": "Melyik varázslatot hozza létre véletlenszerűen a „Primordial Glyph”?",
+        "answers": {
+            "A": "Csak Mage varázslatok",
+            "B": "Bármelyik class varázslata",
+            "C": "Csak Fire varázslatok",
+            "D": "Csak Freeze varázslatok"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 94,
+        "question": "Mi a „Reno Jackson” Battlecry-ja?",
+        "answers": {
+            "A": "Ha a paklidnak nincsenek duplikáció, visszaállíja a hősöd teljes életerőjét.",
+            "B": "Állítsd vissza az összes baráti minion teljes életerőre.",
+            "C": "Ha a kezedben nincs duplikátum, pusztítsd el az összes ellenséges miniont.",
+            "D": "Keverj minden duplikált lapot a paklidba."
+        },
+        "correct": "A"
+    },
+    {
+        "id": 95,
+        "question": "Melyik kártya nerfje lassította le drasztikusan az „Even Shaman” archetípust?",
+        "answers": {
+            "A": "Genn Greymane",
+            "B": "Thing from Below",
+            "C": "Flametongue Totem",
+            "D": "Thunderhead"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 96,
+        "question": "Melyik szett vezette be a „Shudderwock”-ot?",
+        "answers": {
+            "A": "Kobolds and Catacombs",
+            "B": "Witchwood",
+            "C": "Boomsday Project",
+            "D": "Rastakhan's Rumble"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 97,
+        "question": "Milyen kulcsszó volt a „Sylvanas Windrunner”-en?",
+        "answers": {
+            "A": "Battlecry",
+            "B": "Deathrattle",
+            "C": "Stealth",
+            "D": "Taunt"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 98,
+        "question": "Melyik kártya volt az, amelyik a nerf előtt 5 manáért 3/3-as farkasokból álló majdnem teljes táblát csinált?",
+        "answers": {
+            "A": "Unleash the Hounds",
+            "B": "Baku the Mooneater",
+            "C": "Master's Call",
+            "D": "Emerald Spellstone"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 99,
+        "question": "Melyik kártya fedezheti fel a paklidban lévő minion másolatát?",
+        "answers": {
+            "A": "Stonehill Defender",
+            "B": "Stitch Tracker",
+            "C": "Archmage Vargoth",
+            "D": "Subject 9"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 100,
+        "question": "Mennyi az a maximális kártyaszám, amit alapesetben a Hearthstone-ban a kezedben tarthatsz?",
+        "answers": {
+            "A": "9",
+            "B": "10",
+            "C": "11",
+            "D": "12"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 101,
+        "question": "Mennyi a maximális példányszám egy nem legendás kártyából, amit egy aréna pakliba használhatsz?",
+        "answers": {
+            "A": "2",
+            "B": "3",
+            "C": "Unlimited",
+            "D": "4"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 102,
+        "question": "Melyik kártya teszi lehetővé, hogy Wild formátumban lemásold az ellenfél pakliját?",
+        "answers": {
+            "A": "Archbishop Benedictus",
+            "B": "Madam Goya",
+            "C": "Gnomeferatu",
+            "D": "King Togwaggle"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 103,
+        "question": "Melyik kártya nerf előtti költségcsökkentő hatása volt olyan erős, hogy ideiglenesen kitiltották az Arénából?",
+        "answers": {
+            "A": "Drek'Thar",
+            "B": "Corridor Creeper",
+            "C": "Arcane Tyrant",
+            "D": "Raza the Chained"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 104,
+        "question": "Milyen kulcsszóval jelent meg a Perils in Paradise-ban",
+        "answers": {
+            "A": "Finale",
+            "B": "Tourist",
+            "C": "Dredge",
+            "D": "Magnetic"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 105,
+        "question": "Melyik kártya lett 3 mana költséggel aréna-domináns a Rogue számára, miután buffolták?",
+        "answers": {
+            "A": "SI:7 Agent",
+            "B": "Blink Fox",
+            "C": "Evil Miscreant",
+            "D": "Hench-Clan Burglar"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 106,
+        "question": "A The Great Dark Beyond kiegészítőben melyik lénytípus szerepel a démonok mellett, de nem kapott külön fajt?",
+        "answers": {
+            "A": "Dragons",
+            "B": "Beasts",
+            "C": "Ethereals",
+            "D": "Murlocs"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 107,
+        "question": "Mi a klasszikus „aréna álomgörbe” a manaköltségek sorrendjében?",
+        "answers": {
+            "A": "1-2-3-4",
+            "B": "2-3-4-5",
+            "C": "2-2-3-5",
+            "D": "3-4-5-6"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 108,
+        "question": "Mennyi volt az „Ultimate Infestation” eredeti manaköltsége a nerfs előtt?",
+        "answers": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 109,
+        "question": "Melyik kombináció képes 18 sebzést okozni , mindössze 3 kártya kijátszásával?",
+        "answers": {
+            "A": "Leeroy Jenkins + Shadowstep",
+            "B": "Doomguard + Soulfire",
+            "C": "Arcane Golem + Power Overwhelming",
+            "D": "King Krush + Quick Shot"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 110,
+        "question": "A Boomsday Project melyik kulcsszava tette lehetővé, hogy a minionok összeolvadjanak?",
+        "answers": {
+            "A": "Overkill",
+            "B": "Magnetic",
+            "C": "Infuse",
+            "D": "Echo"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 111,
+        "question": "Melyik Aréna only passzív kincs adott neked az első 2 körben egy extra manakristályt?",
+        "answers": {
+            "A": "Crystal Gem",
+            "B": "Stargazer",
+            "C": "Dragonblood",
+            "D": "Band of Bees"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 112,
+        "question": "Melyik varázsige mondta: „Okozz 2 sebzést minden ellenséges minionnak és fagyaszd le őket”?",
+        "answers": {
+            "A": "Blizzard",
+            "B": "Frost Nova",
+            "C": "Cone of Cold",
+            "D": "Volcanic Potion"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 113,
+        "question": "Mennyi az a maximális számú kártya, amelyet egy aréna pakliba felvehetsz?",
+        "answers": {
+            "A": "30",
+            "B": "40",
+            "C": "60",
+            "D": "25"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 114,
+        "question": "Melyik kártya indít el 5 véletlenszerű mágus varázslatot?",
+        "answers": {
+            "A": "Puzzle Box of Yogg-Saron",
+            "B": "Solarian Prime",
+            "C": "Flamewaker",
+            "D": "Mana Cyclone"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 115,
+        "question": "Melyik legendás kártya állítja vissza a hősöd teljes életerejét, ha nincs másolat a paklidban?",
+        "answers": {
+            "A": "Kazakus",
+            "B": "Raza the Chained",
+            "C": "Reno Jackson",
+            "D": "Zephrys the Great"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 116,
+        "question": "Mennyi a „Molten Giant” alapköltsége az balance patch után?",
+        "answers": {
+            "A": "20",
+            "B": "25",
+            "C": "15",
+            "D": "18"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 117,
+        "question": "Melyik kártya fedez fel a paklid bármelyik lapját ?",
+        "answers": {
+            "A": "Primordial Drake",
+            "B": "Stonehill Defender",
+            "C": "Tracking",
+            "D": "Shadow Visions"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 118,
+        "question": "Melyik class volt az első, amelyik erősen visszaélt a „Páratlan” és „Páros” paklikkal a megjelenéskor?",
+        "answers": {
+            "A": "Paladin",
+            "B": "Hunter",
+            "C": "Warlock",
+            "D": "Shaman"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 119,
+        "question": "Melyik ikonikus és klasszikus varázslat az alacsony életerőjű minionok megölésére, és csak 2 manába kerül?",
+        "answers": {
+            "A": "Flame Strike",
+            "B": "Arcane Explosion",
+            "C": "Consecration",
+            "D": "Frostbolt"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 120,
+        "question": "Melyik fegyverbe volt beépítve a Windfury és volt hírhedt az Aggro Shamanben?",
+        "answers": {
+            "A": "Doomhammer",
+            "B": "Eaglehorn Bow",
+            "C": "Ashbringer",
+            "D": "Stormforged Axe"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 121,
+        "question": "A Wildban melyik kártya szokott a Reno Priest paklikban a finisher lenni?",
+        "answers": {
+            "A": "Raza the Chained",
+            "B": "Spawn of Shadows",
+            "C": "Shadowreaper Anduin",
+            "D": "Prophet Velen"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 122,
+        "question": "Milyen a manaköltsége „Barnes”-nak?",
+        "answers": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "3"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 123,
+        "question": "Melyik aréna semleges minion kínál Deathrattle-t: „Adj hozzá a kezedhez egy 3/1-es szellemet lopakodással.”?",
+        "answers": {
+            "A": "Harvest Golem",
+            "B": "Recombobulator",
+            "C": "Anubisath Sentinel",
+            "D": "Sneaky Delinquent"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 124,
+        "question": "Melyik varázslat volt gyakran az első választás az aréna mágusoknak az erős AoE és a táblakontroll miatt?",
+        "answers": {
+            "A": "Fireball",
+            "B": "Blizzard",
+            "C": "Flamestrike",
+            "D": "Arcane Missiles"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 125,
+        "question": "Melyik legendás lap hoz létre egy portált, amely a köröd végén megidéz démont?",
+        "answers": {
+            "A": "Sargeras, the Destroyer",
+            "B": "Kil'jaeden",
+            "C": "Xal'atath, Void Eater",
+            "D": "Archimonde, the Defiler"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 126,
+        "question": "A Wildban melyik kártya kulcsfontosságú a kombó druida paklik számára (mint például a Togwaggle Druid vagy a Mecha'thun Druid)?",
+        "answers": {
+            "A": "Ultimate Infestation",
+            "B": "Twig of the World Tree",
+            "C": "Spreading Plague",
+            "D": "Floop's Glorious Gloop"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 127,
+        "question": "Melyik kártya szövege mondja: \"Fedezd fel egy varázslat egy másolatát a paklidban.\"?",
+        "answers": {
+            "A": "Shadow Visions",
+            "B": "Zephrys the Great",
+            "C": "Kazakus",
+            "D": "Tracking"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 128,
+        "question": "Az arénában, amit általában a legerősebb semleges 4-dropnak tartanak a tempó és a táblakontroll szempontjából.?",
+        "answers": {
+            "A": "Chillwind Yeti",
+            "B": "Oasis Snapjaw",
+            "C": "Stormwind Knight",
+            "D": "Dragonling Mechanic"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 129,
+        "question": "Melyik Hearthstone szett vezette be hivatalosan a Secret szinergiát a Rogue-ba?",
+        "answers": {
+            "A": "Kobolds and Catacombs",
+            "B": "Rise of Shadows",
+            "C": "Scholomance Academy",
+            "D": "Saviors of Uldum"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 130,
+        "question": "Mi a „Genn Greymane” lap hatása?",
+        "answers": {
+            "A": "A páratlan költségű kártyáid (1)-gyel kevesebbe kerülnek.",
+            "B": "A páros költségű kártyáid (1)-gyel kevesebbe kerülnek.",
+            "C": "Ha a paklidban csak páratlan költségű kártyák vannak, a heropower-ed (1) költségű lesz.",
+            "D": "Ha a paklidban csak páros költségű kártyák vannak, a heropower-ed (1) költségű lesz."
+        },
+        "correct": "D"
+    },
+    {
+        "id": 131,
+        "question": "Melyik Wild pakli volt ismert az \"Divine Favor\" feltöltési mechanikájáról?",
+        "answers": {
+            "A": "Odd Paladin",
+            "B": "Aggro Paladin",
+            "C": "Murloc Paladin",
+            "D": "Mech Paladin"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 132,
+        "question": "Melyik régi, csak solo adventureben használható passzív duplázta meg a battlecry-okat?",
+        "answers": {
+            "A": "Dragonblood",
+            "B": "Battle Totem",
+            "C": "Double Time",
+            "D": "Robes of Shrinking"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 133,
+        "question": "Melyik tulajdonság tesz egy spell-generáló miniont különösen értékessé a mai aréna metában?",
+        "answers": {
+            "A": "Magas attack érték",
+            "B": "Tribal szinergia (pl. Undead, Beast)",
+            "C": "Battlecry: Discover egy spell",
+            "D": "Divine Shield"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 134,
+        "question": "Melyik varázslat volt ikonikus a \"Miracle Rogue\" paklikban a Gadgetzan Auctioneerrel való kombózáshoz?",
+        "answers": {
+            "A": "Sinister Strike",
+            "B": "Eviscerate",
+            "C": "Preparation",
+            "D": "Sprint"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 135,
+        "question": "Mi volt a \"Small-Time Buccaneer\" eredeti effectje a nerf előtt?",
+        "answers": {
+            "A": "+2 támadás, amíg fegyver van felszerelve.",
+            "B": "Húzz egy kalózt",
+            "C": "Adj egy baráti kalóznak +1/+1",
+            "D": "Felszerelsz egy 1/2 fegyvert"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 136,
+        "question": "Melyik semleges minionnak van ez az effektje: \"Amikor megidézel egy fenevadat, húzz egy kártyát\"?",
+        "answers": {
+            "A": "Starving Buzzard",
+            "B": "Cult Master",
+            "C": "The Curator",
+            "D": "Menagerie Warden"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 137,
+        "question": "Melyik kulcsszóval éltek vissza elsősorban a Cubelock paklik?",
+        "answers": {
+            "A": "Overkill",
+            "B": "Deathrattle",
+            "C": "Infuse",
+            "D": "Reborn"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 138,
+        "question": "Melyik aréna választási stratégia mondja azt, hogy „Mindig az olcsó, hatékony tempó kártyákat részesítsd előnyben a lassú értékkártyákkal szemben”?",
+        "answers": {
+            "A": "Curve drafting",
+            "B": "Greedy drafting",
+            "C": "Reactive drafting",
+            "D": "Control drafting"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 139,
+        "question": "Melyik kombó pakli támaszkodott Emperor Thaurissan-ra, hogy csökkentse a kulcskártyák költségét egy OTK-hoz?",
+        "answers": {
+            "A": "Freeze Mage",
+            "B": "Miracle Rogue",
+            "C": "Malygos Druid",
+            "D": "Zoolock"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 140,
+        "question": "Melyik varázslat húzott fel egy véletlenszerű mágus secretet és került (0) manába?",
+        "answers": {
+            "A": "Arcane Keysmith",
+            "B": "Babbling Book",
+            "C": "Ancient Mysteries",
+            "D": "Frostbolt"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 141,
+        "question": "Melyik kártyakombó volt az eredeti „Patron Warrior” gerince?",
+        "answers": {
+            "A": "Warsong Commander + Grim Patron",
+            "B": "Frothing Berserker + Charge",
+            "C": "Grim Patron + Inner Rage",
+            "D": "Death's Bite + Acolyte of Pain"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 142,
+        "question": "Melyik kártya hozott létre egy egész archetípust, a „Big Priest”-et a Wildban?",
+        "answers": {
+            "A": "Eternal Servitude",
+            "B": "Shadow Essence",
+            "C": "Barnes",
+            "D": "Y'Shaarj, Rage Unbound"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 143,
+        "question": "Melyik arénastratégia a leghatékonyabb, ha túl sok késői kártyát kínálnak neked?",
+        "answers": {
+            "A": "A görbe figyelmen kívül hagyása és a legjobb érték kiválasztása",
+            "B": "Erőszakos görbe",
+            "C": "Válassz gyógyító kártyákat",
+            "D": "Auto-lose és reroll"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 144,
+        "question": "Melyik kártyának volt RÉGEN a favor szövege a „STOP YELLING!” ?",
+        "answers": {
+            "A": "Loatheb",
+            "B": "Grommash Hellscream",
+            "C": "Leeroy Jenkins",
+            "D": "Ragnaros the Firelord"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 145,
+        "question": "Melyik lap adott minden minionoknak a boardon „Nem lehet célpontja varázslatoknak vagy hero powernek” effektet?",
+        "answers": {
+            "A": "Blessing of Wisdom",
+            "B": "Mark of the Wild",
+            "C": "Living Roots",
+            "D": "Robes of Protection"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 146,
+        "question": "Melyik Warlock lap helyettesíti a hősödet egy újjal, és idézi meg a korábban elpusztított démonokat?",
+        "answers": {
+            "A": "Skull of the Man’ari",
+            "B": "Bloodreaver Gul’dan",
+            "C": "Dark Pact",
+            "D": "Lord Jaraxxus"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 147,
+        "question": "Mi a leggyakoribb aréna győzelmi arány az ÁTLAGOS játékosok számára?",
+        "answers": {
+            "A": "0–2",
+            "B": "3–5",
+            "C": "6–8",
+            "D": "9+"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 148,
+        "question": "Melyik class férhet hozzá az „Solemn Vigil” kártyához?",
+        "answers": {
+            "A": "Priest",
+            "B": "Paladin",
+            "C": "Warrior",
+            "D": "Druid"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 149,
+        "question": "Melyik kártya szinergia volt a domináns a „Secret Mage”-ben?",
+        "answers": {
+            "A": "Arcane Flakmage + Secret",
+            "B": "Kirin Tor Mage + Secret",
+            "C": "Aluneth + Secrets",
+            "D": "A válaszok mindegyike"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 150,
+        "question": "Aviana + Kun the Forgotten King kombinációval melyik kombót használták OTK-ra 2017-ben standardban?",
+        "answers": {
+            "A": "Többszöri face \"Swipe\"",
+            "B": "Dupla  Malygos",
+            "C": "Ultimate Infestation",
+            "D": "Living Roots spam"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 151,
+        "question": "Melyik semleges Legendary rendelkezik a Battlecry-vel: „Pusztíts el minden más miniont\"?",
+        "answers": {
+            "A": "The Black Knight",
+            "B": "Deathwing",
+            "C": "Gruul",
+            "D": "Nozdormu"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 152,
+        "question": "Egy normál aréna pakliban mennyi a 2-dropok ideális száma?",
+        "answers": {
+            "A": "0–2",
+            "B": "3–5",
+            "C": "6–8",
+            "D": "9–12"
+        },
+        "correct": "C"
+    },
+    {
+        "id": 153,
+        "question": "Melyik expansion vezette be a „Finale” kulcsszót?",
+        "answers": {
+            "A": "Festival of Legends",
+            "B": "Perils in Paradise",
+            "C": "Voyage to the Sunken City",
+            "D": "Scholomance Academy"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 154,
+        "question": "Melyik klasszikus semleges kártya volt híres arról, hogy egymagában nyerte meg az aréna meccseket azzal, hogy őrült értéke volt?",
+        "answers": {
+            "A": "Chillwind Yeti",
+            "B": "Boulderfist Ogre",
+            "C": "Emperor Cobra",
+            "D": "Mind Control Tech"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 155,
+        "question": "Melyik legendás Rogue kártya ismétli az összes olyan kártyát, ami a játék során kijátszottak és nem a te kasztodhoz tartozik",
+        "answers": {
+            "A": "Tess Greymane",
+            "B": "Valeera the Hollow",
+            "C": "Edwin VanCleef",
+            "D": "Scabbs Cutterbutter"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 156,
+        "question": "Melyik Hearthstone esemény vezette be először a „Dual-Class Arena”-t?",
+        "answers": {
+            "A": "Hallow’s End",
+            "B": "Lunar Festival",
+            "C": "BlizzCon",
+            "D": "Midsummer Fire Festival"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 157,
+        "question": "Melyik Wild pakli támaszkodik a „Call of the Wild”-ra, hogy megfordítsa a meccseket?",
+        "answers": {
+            "A": "Reno Hunter",
+            "B": "Beast Hunter",
+            "C": "Secret Hunter",
+            "D": "Midrange Hunter"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 158,
+        "question": "Milyen kulcsszót kap egy olyan minion, amely 1 életerőre feléled halál után?",
+        "answers": {
+            "A": "Reborn",
+            "B": "Deathrattle",
+            "C": "Immortal",
+            "D": "Lifesteal"
+        },
+        "correct": "A"
+    },
+    {
+        "id": 159,
+        "question": "Mi volt az „Innervate” hatása a 2017 szeptemberi nerfje után?",
+        "answers": {
+            "A": "Csak ebben a körben 2 manakristályt nyerhetsz.",
+            "B": "Csak ebben a körben 1 manakristályt nyerhetsz.",
+            "C": "2 manakristály frissítése",
+            "D": "Szerezz 1 állandó mana kristályt"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 160,
+        "question": "Melyik lap játssza ki az összes lapot, amit az ellenfeled az előző körében kijátszott?",
+        "answers": {
+            "A": "Lorewalker Cho",
+            "B": "Murozond the Infinite",
+            "C": "Mindrender Illucia",
+            "D": "Shadowreaper Anduin"
+        },
+        "correct": "B"
+    },
+    {
+        "id": 161,
+        "question": "Mikor jelent meg először a Harthstone játék Windows-ra és macOS platformra?",
+        "answers": {
+            "A": "2017 Március 11",
+            "B": "2016 Március 11",
+            "C": "2015 Március 11",
+            "D": "2014 Március 11"
+        },
+        "correct": "D"
+    },
+    {
+        "id": 162,
+        "question": "Mi volt a Hearthstone első hivatalos bővítése a megjelenés után?",
+        "answers": {
+            "A": "Curse of Naxxramas",
+            "B": "Goblins vs Gnomes",
+            "C": "Blackrock Mountain",
+            "D": "The Grand Tournament"
+        },
+        "correct": "A"
+    }
+]

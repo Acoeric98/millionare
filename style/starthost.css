@@ -1,0 +1,15 @@
+    body { background-color: #000; color: #0f0; font-family: 'Segoe UI', sans-serif; text-align: center; padding: 3rem;       background-image: url("/millionare/img/milliomos.png");
+      background-repeat: no-repeat;
+      background-size: cover;}
+    h1 { font-size: 2rem; margin-bottom: 2rem; }
+    button {
+      padding: 1rem 2rem;
+      font-size: 1.5rem;
+      border: 2px solid #0f0;
+      background-color: #222;
+      color: #0f0;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    button:hover { background-color: #0f0; color: #000; }
+    .game-id { margin-top: 2rem; font-size: 1.5rem; }

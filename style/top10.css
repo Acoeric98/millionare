@@ -1,0 +1,41 @@
+body {
+  background-color: #000;
+  color: #0f0;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 3rem;
+  background-image: url("/millionare/img/milliomos.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  margin-bottom: 2rem;
+}
+
+.tables {
+  display: flex;
+  justify-content: center;
+  gap: 40px; /* távolság a két táblázat között */
+  flex-wrap: wrap; /* kisebb képernyőn egymás alá törik */
+  margin-top: 2rem;
+}
+
+.tables table {
+  border-collapse: collapse;
+  width: 400px; /* fix szélesség a stabil elrendezéshez */
+}
+
+th, td {
+  border: 2px solid #0f0;
+  padding: 1rem;
+  font-size: 1.2rem;
+}
+
+th {
+  background-color: #111;
+}
+
+td {
+  background-color: #222;
+}

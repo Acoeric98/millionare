@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Stream nézet – Legyen Ön is Milliomos</title>
+  <script src="/millionare/script/stream.js"></script>
+  <link rel="stylesheet" href="/millionare/style/stream.css">
+</head>
+
+<body>
+  <div style="padding: 10px;">
+    <a href="/millionare/templates/menu.html" style="color: #0af; text-decoration: none; font-size: 18px;">
+      ⬅️ Vissza a főmenübe
+    </a>
+  </div>
+  <h1>🎥 Stream nézet</h1>
+  <div class="question" id="question">Kérdés betöltése...</div>
+  <div class="answers" id="answers"></div>
+
+  <audio id="audio-bg" src="/millionare/audio/bg.mp3" loop autoplay></audio>
+  <audio id="audio-check" src="/millionare/audio/check.mp3"></audio>
+  <audio id="audio-correct" src="/millionare/audio/correct.mp3"></audio>
+  <audio id="audio-lose" src="/millionare/audio/lose.mp3"></audio>
+  <audio id="audio-next" src="/millionare/audio/next.mp3"></audio>
+  <audio id="audio-win" src="/millionare/audio/win.mp3"></audio>
+
+  <div id="help-status"></div>
+  <div id="stream-timer" style="font-size: 1.6rem; color: yellow; margin-top: 1rem;"></div>
+  <div id="audience-chart-wrapper" style="margin-top: 2rem; display: none;">
+    <div id="audience-chart" style="display: flex; justify-content: center; gap: 2rem;"></div>
+  </div>
+</body>
+
+</html>

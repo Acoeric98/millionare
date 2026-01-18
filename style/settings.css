@@ -1,0 +1,9 @@
+    body { background-color: #000; color: #0f0; font-family: 'Segoe UI', sans-serif; text-align: center; padding: 3rem;       background-image: url("/millionare/img/milliomos.png");
+      background-repeat: no-repeat;
+      background-size: cover;}
+    h1 { margin-bottom: 2rem; }
+    label { font-size: 1.5rem; }
+    input[type="checkbox"] {
+      transform: scale(1.5);
+      margin-left: 1rem;
+    }

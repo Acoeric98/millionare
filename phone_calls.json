@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "dialogue": [
+      "Csáó, mizu van?",
+      "Kvízműsor? Azt a mindenit!",
+      "Oké, olvasd a kérdést és a válaszokat is.",
+      "Ez ismerős lehet... szerintem a helyes az: {{suggested}}."
+    ]
+  },
+  {
+    "id": 2,
+    "dialogue": [
+      "Hahó, mi a pálya?",
+      "Játékban vagy? Na ez menő!",
+      "Add csak ide a kérdést, kíváncsi vagyok.",
+      "Nem vagyok teljesen biztos benne, de talán: {{suggested}}."
+    ]
+  },
+  {
+    "id": 3,
+    "dialogue": [
+      "Helló tesó, épp főzök, de mondjad!",
+      "Kvíz? Haha, ezt muszáj segítenem.",
+      "Olvasd a kérdést meg a lehetőségeket.",
+      "Én úgy emlékszem, hogy a jó válasz: {{suggested}}."
+    ]
+  },
+  {
+    "id": 4,
+    "dialogue": [
+      "Szevasz, pont jókor hívtál!",
+      "Műsorban vagy? Na hajrá!",
+      "Mondd, miről van szó.",
+      "Ha rám hallgatsz, akkor ez lesz: {{suggested}}."
+    ]
+  },
+  {
+    "id": 5,
+    "dialogue": [
+      "Hali, hogyhogy most hívsz?",
+      "Óó, kvízműsorban vagy?! Azta!",
+      "Gyorsan mond a kérdést, kevés az idő, mi?",
+      "Hát... talán: {{suggested}}."
+    ]
+  },
+  {
+    "id": 6,
+    "dialogue": [
+      "Szia, mit csinálsz?",
+      "Hogy mi? Egy vetélkedő közepén vagy?!",
+      "Na akkor most megpróbálok hős lenni.",
+      "Szerintem a válasz: {{suggested}}."
+    ]
+  },
+  {
+    "id": 7,
+    "dialogue": [
+      "Helló, miben segíthetek?",
+      "Aha, kérdésed van, jöhet!",
+      "Olvasd be a válaszokat is.",
+      "Bátran mondom: {{suggested}}."
+    ]
+  },
+  {
+    "id": 8,
+    "dialogue": [
+      "Szia, ne haragudj, épp a buszon vagyok.",
+      "Mi? Kvíz?! Oké, figyelek.",
+      "Mondd a kérdést, én meg próbálok segíteni.",
+      "Talán... {{suggested}} lesz a jó."
+    ]
+  },
+  {
+    "id": 9,
+    "dialogue": [
+      "Na szeva! Te vagy az?",
+      "Kvíz kérdésed van? Komoly!",
+      "Dobd be a kérdést, hadd pörögjek rá.",
+      "Tippem: {{suggested}}. Remélem nem lőttem mellé!"
+    ]
+  },
+  {
+    "id": 10,
+    "dialogue": [
+      "Hello hello!",
+      "Na mi van, máris a milliókért játszol?",
+      "Mondd a kérdést, ne húzzuk az időt.",
+      "Szerintem a jó válasz: {{suggested}}."
+    ]
+  },
+  {
+    "id": 11,
+    "dialogue": [
+      "Itt vagyok, hallak.",
+      "Tényleg a tévében vagy most?",
+      "Oké, nyomd a kérdést, én meg próbálok segíteni.",
+      "Ez nekem gyanúsan: {{suggested}}."
+    ]
+  },
+  {
+    "id": 12,
+    "dialogue": [
+      "Na helló, épp kajálok, de mondd csak.",
+      "Kvíz? Játék? Imádom!",
+      "Mi a kérdés, mik a válaszok?",
+      "Szerintem: {{suggested}}. De ne esküdj meg rá!"
+    ]
+  },
+  {
+    "id": 13,
+    "dialogue": [
+      "Jézusom, kvízműsorban vagy?!",
+      "Na ez már igen, fődíjért mész?",
+      "Olvasd gyorsan a kérdést.",
+      "Tippem: {{suggested}}. De lehet, hogy kamuzok."
+    ]
+  },
+  {
+    "id": 14,
+    "dialogue": [
+      "Hello, hívás fogadva!",
+      "Te vagy az? Mit akarsz?",
+      "Ja, kvíz... oké, nyomjad!",
+      "Szerintem a megoldás: {{suggested}}."
+    ]
+  },
+  {
+    "id": 15,
+    "dialogue": [
+      "Szia, épp dolgozom, de gyorsan segítek.",
+      "Mondd a kérdést, mire kell válaszolni?",
+      "Oké, megvan. Hallottam már ilyet.",
+      "A válasz pedig: {{suggested}} – szerintem."
+    ]
+  },
+{
+  "id": 16,
+  "dialogue": [
+    "Na helló, épp boltban vagyok, de nyomjad gyorsan!",
+    "Kvíz kérdés? Jól van, próbálok segíteni.",
+    "Mi a kérdés, mik az opciók?",
+    "Hát figyelj... én arra tippelnék, hogy: {{suggested}}."
+  ]
+},
+{
+  "id": 17,
+  "dialogue": [
+    "Szevasz, versenyben vagy?",
+    "Kvízműsor élőben, mi? Kész őrület!",
+    "Olvasd be a kérdést hangosan.",
+    "A megérzésem azt súgja: {{suggested}}."
+  ]
+},
+{
+  "id": 18,
+  "dialogue": [
+    "Halihó, na mi újság?",
+    "Micsoda? Tévében vagy? Ne szórakozz!",
+    "Gyorsan, mondd a kérdést.",
+    "Ha rám hallgatsz, akkor a válasz: {{suggested}}."
+  ]
+},
+{
+  "id": 19,
+  "dialogue": [
+    "Hé, épp videójátékozom, de ez fontosabb!",
+    "Kvíz? Hát persze, hogy segítek!",
+    "Mi a kérdés, mik a lehetőségek?",
+    "Az én tippem az: {{suggested}}."
+  ]
+},
+{
+  "id": 20,
+  "dialogue": [
+    "Szia, mi történt?",
+    "Komolyan? A főnyereményért játszol?!",
+    "Gyorsan mondd, mire kell válaszolni.",
+    "Szerintem a legvalószínűbb: {{suggested}}."
+  ]
+},
+{
+  "id": 21,
+  "dialogue": [
+    "Na szevasz, ezt nem hiszem el!",
+    "Tényleg adásban vagy? Nagyon durva!",
+    "Olvasd a kérdést és a válaszokat, gyorsan.",
+    "Tippem: {{suggested}} – de ne engem hibáztass!"
+  ]
+},
+{
+  "id": 22,
+  "dialogue": [
+    "Szia, itt vagyok, mondd csak.",
+    "Játék közben vagy? Értem már, miért hívsz.",
+    "Oké, mond a kérdést szépen sorban.",
+    "Érzésre azt mondanám, hogy: {{suggested}}."
+  ]
+},
+{
+  "id": 23,
+  "dialogue": [
+    "Helló, pont most szabadultam fel.",
+    "Jól időzítettél, jöhet a kérdés!",
+    "Lássuk csak...",
+    "Az én válaszom: {{suggested}}."
+  ]
+},
+{
+  "id": 24,
+  "dialogue": [
+    "Szia, azt hittem viccelsz, de tényleg versenyen vagy!",
+    "Oké, én benne vagyok.",
+    "Na, olvasd a kérdést hangosan.",
+    "A legvalószínűbb szerintem: {{suggested}}."
+  ]
+},
+{
+  "id": 25,
+  "dialogue": [
+    "Hahó, most egy titkos küldetésen vagyok... de segítek!",
+    "Na jó, küldd a kérdést!",
+    "Hmm... ismerős, valahol hallottam már.",
+    "Tippem: {{suggested}}."
+  ]
+},
+{
+  "id": 26,
+  "dialogue": [
+    "Hello! Épp meccset nézek, de neked segítek!",
+    "Tényleg kvíz? Király!",
+    "Mondd, mi a kérdés.",
+    "Szerintem a legjobb válasz: {{suggested}}."
+  ]
+},
+{
+  "id": 27,
+  "dialogue": [
+    "Szevasz! Már megint valami őrült kalandban vagy?",
+    "Élő kvíz? Ez nagyon te vagy!",
+    "Oké, figyelek.",
+    "A válasz, amit mondanék: {{suggested}}."
+  ]
+},
+{
+  "id": 28,
+  "dialogue": [
+    "Hé, ez most komoly?",
+    "Tényleg egy vetélkedőből hívtál?",
+    "Na jó, essünk túl rajta.",
+    "Én biztosra venném, hogy: {{suggested}}."
+  ]
+},
+{
+  "id": 29,
+  "dialogue": [
+    "Helló, most épp edzek, de nyomjad csak.",
+    "Kvíz kérdésed van, mi? Állok elébe!",
+    "Gyorsan mondd a négy lehetőséget is.",
+    "Ha én lennék ott, ezt mondanám: {{suggested}}."
+  ]
+},
+{
+  "id": 30,
+  "dialogue": [
+    "Szia! Igen, hallak!",
+    "Kvízműsor? Na ez elég menő!",
+    "Mit kérdeznek? Olvasd gyorsan!",
+    "Megérzésből azt mondanám: {{suggested}}."
+  ]
+}
+]

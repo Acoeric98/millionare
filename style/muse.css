@@ -1,0 +1,18 @@
+    body { background-color: #000; color: #0f0; font-family: 'Segoe UI', sans-serif; text-align: center; padding: 3rem;       background-image: url("/millionare/img/milliomos.png");
+      background-repeat: no-repeat;
+      background-size: cover;}
+    h1 { font-size: 2rem; margin-bottom: 3rem; }
+    .menu button {
+      display: block;
+      width: 80%;
+      max-width: 300px;
+      margin: 1rem auto;
+      padding: 1rem;
+      font-size: 1.5rem;
+      background-color: #222;
+      border: 2px solid #0f0;
+      border-radius: 10px;
+      color: #0f0;
+      cursor: pointer;
+    }
+    .menu button:hover { background-color: #0f0; color: #000; }

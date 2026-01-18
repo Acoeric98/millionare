@@ -1,0 +1,45 @@
+{
+  "mode": "single",
+  "question_order": [
+    7,
+    95,
+    105,
+    152,
+    75,
+    122,
+    129,
+    8,
+    99,
+    148,
+    64,
+    65,
+    1,
+    100,
+    101
+  ],
+  "ready_for_next": true,
+  "current_index": 0,
+  "player_name": "Ketyo",
+  "used_helps": {
+    "fifty": false,
+    "phone": false,
+    "audience": true
+  },
+  "answers": {},
+  "audience_votes": {
+    "A": 21,
+    "B": 5,
+    "C": 47,
+    "D": 2
+  },
+  "status": "waiting",
+  "score": 0,
+  "check_performed": false,
+  "help_history": [
+    {
+      "type": "audience",
+      "question_index": 0,
+      "timestamp": 1749046248.5241823
+    }
+  ]
+}

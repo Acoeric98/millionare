@@ -1,0 +1,45 @@
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 2rem;
+      background-image: url("/millionare/img/milliomos.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    h1 { font-size: 2rem; margin-bottom: 2rem; color: #0f0; }
+    .game-item {
+      padding: 1rem 2rem;
+      margin: 1rem auto;
+      font-size: 1.3rem;
+      border: 2px solid #0f0;
+      width: fit-content;
+      cursor: pointer;
+      border-radius: 8px;
+      background-color: #111;
+    }
+    .game-item:hover {
+      background-color: #0f0;
+      color: #000;
+    }
+    .vote-buttons button {
+      margin: 1rem;
+      padding: 1rem 2rem;
+      font-size: 1.5rem;
+      background-color: #222;
+      border: 2px solid #0f0;
+      border-radius: 10px;
+      color: #0f0;
+      cursor: pointer;
+    }
+    .vote-buttons button:hover {
+      background-color: #0f0;
+      color: #000;
+    }
+    .thankyou {
+      margin-top: 2rem;
+      font-size: 1.5rem;
+      color: #0f0;
+      display: none;
+    }

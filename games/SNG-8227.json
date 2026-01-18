@@ -1,0 +1,44 @@
+{
+  "mode": "single",
+  "question_order": [
+    72,
+    25,
+    11,
+    68,
+    94,
+    30,
+    157,
+    9,
+    120,
+    137,
+    152,
+    100,
+    81,
+    4,
+    151
+  ],
+  "ready_for_next": false,
+  "current_index": 1,
+  "player_name": "TokosNover",
+  "used_helps": {
+    "fifty": false,
+    "phone": false,
+    "audience": false
+  },
+  "answers": {
+    "0": "B",
+    "1": "C"
+  },
+  "audience_votes": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0
+  },
+  "status": "ended",
+  "score": 0,
+  "check_performed": true,
+  "help_history": [],
+  "check_feedback_visible": false,
+  "fifty_removed": []
+}

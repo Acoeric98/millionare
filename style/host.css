@@ -1,0 +1,9 @@
+body { background: #000; color: #0f0; font-family: monospace; text-align: center; padding: 2rem; }
+    h1 { font-size: 2rem; margin-bottom: 1rem; }
+    #gameIdDisplay { font-size: 1.1rem; margin-bottom: 1rem; color: #0ff; }
+    #question { font-size: 1.4rem; margin: 1rem 0; }
+    .answer { margin: 0.5rem 0; }
+    .answer span { display: inline-block; min-width: 2rem; font-weight: bold; }
+    .correct-answer { margin-top: 1rem; font-size: 1.2rem; color: gold; }
+    button { margin: 1rem; padding: 1rem 2rem; font-size: 1rem; cursor: pointer; }
+    .inactive { background-color: #333; color: #777; cursor: not-allowed; }

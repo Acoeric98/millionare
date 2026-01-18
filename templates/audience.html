@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Közönség – Legyen Ön is Milliomos</title>
+  <link rel="stylesheet" href="/millionare/style/audi.css">
+  <script src="/millionare/script/audi.js"></script>
+</head>
+
+<body>
+  <div style="padding: 10px;">
+    <a href="/millionare/templates/menu.html" style="color: #0af; text-decoration: none; font-size: 18px;">
+      ⬅️ Vissza a főmenübe
+    </a>
+  </div>
+  <h1>Válassz játékot és szavazz!</h1>
+
+  <div id="gameList">Játékok betöltése...</div>
+  <div id="voteSection" style="display:none;">
+    <h2 id="questionText" style="color: gold;"></h2>
+    <ul id="answersList" style="list-style: none; padding: 0; margin-bottom: 2rem;"></ul>
+
+    <div class="vote-buttons">
+      <button onclick="vote('A')">A</button>
+      <button onclick="vote('B')">B</button>
+      <button onclick="vote('C')">C</button>
+      <button onclick="vote('D')">D</button>
+    </div>
+    <div class="thankyou" id="thankyou">✅ Köszönjük a szavazatot!</div>
+  </div>
+
+</body>
+
+</html>

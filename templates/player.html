@@ -1,0 +1,102 @@
+<!DOCTYPE html> 
+<html lang="hu">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Játékos – Legyen Ön is Milliomos</title>
+  <script src="/millionare/script/player.js"></script>
+  <link rel="stylesheet" href="/millionare/style/player.css">
+</head>
+<body>
+  <div class="question" id="question">Kérdés betöltése...</div>
+  <div class="answers">
+    <button id="btnA" data-key="A"></button>
+    <button id="btnB" data-key="B"></button>
+    <button id="btnC" data-key="C"></button>
+    <button id="btnD" data-key="D"></button>
+  </div>
+  <div class="controls" id="controls" style="display:none;">
+  </div>
+  <div class="timer" id="timer"></div>
+
+  <div id="continuePrompt">
+    <p style="color: gold; font-size: 1.2rem;">Szeretnéd folytatni a játékot?</p>
+    <button onclick="stopGame()">🚪 Megállok</button>
+    <button onclick="confirmNextQuestion()">➡ Tovább</button>
+  </div>
+  <div class="lifelines">
+  <button id="btn-fifty" onclick="useFiftyHelp()">50:50</button>
+  <button id="btn-phone" onclick="usePhoneHelp()">📞 Telefon</button>
+  <button id="btn-audience" onclick="useAudienceHelp()">👥 Közönség</button>
+</div>
+  <div id="circle-timer" style="width: 150px; height: 150px; margin: auto; display: none;">
+  <svg viewBox="0 0 100 100">
+    <circle cx="50" cy="50" r="45" stroke="#00bfff" stroke-width="10" fill="none"/>
+    <circle id="progress" cx="50" cy="50" r="45" stroke="orange" stroke-width="10"
+            fill="none" stroke-dasharray="282.74" stroke-dashoffset="0"
+            transform="rotate(-90 50 50)"/>
+    <text id="timeText" x="50" y="58" text-anchor="middle" font-size="28" fill="white">45</text>
+  </svg>
+</div>
+<div id="continuePrompt">
+    <p style="color: gold; font-size: 1.2rem;">Szeretnéd folytatni a játékot?</p>
+    <button onclick="stopGame()">🚪 Megállok</button>
+    <button onclick="confirmNextQuestion()">➡ Tovább</button>
+  </div>
+<div id="gameOverPrompt" style="display:none; margin-top: 2rem;">
+  <p style="color: #ff8080; font-size: 1.2rem;">❌ Helytelen válasz! A helyes válasz fent látható.</p>
+  <button onclick="goToToplist()" style="
+    margin-top: 1rem;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    border: 2px solid gold;
+    background: #222;
+    color: gold;
+    cursor: pointer;
+  ">🏆 Tovább a toplistához</button>
+</div>
+  <audio id="audio-bg" src="/millionare/audio/bg.mp3" loop autoplay></audio>
+  <audio id="audio-check" src="/millionare/audio/check.mp3"></audio>
+  <audio id="audio-correct" src="/millionare/audio/correct.mp3"></audio>
+  <audio id="audio-lose" src="/millionare/audio/lose.mp3"></audio>
+  <audio id="audio-next" src="/millionare/audio/next.mp3"></audio>
+  <audio id="audio-win" src="/millionare/audio/win.mp3"></audio>
+  <div id="reward-status" style="color: gold; margin-bottom: 1rem; font-size: 1.2rem;"></div>
+  <div id="reward-ladder" style="
+  position: fixed;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.85);
+  padding: 1rem;
+  border-left: 2px solid gold;
+  z-index: 999;
+  font-family: 'Segoe UI', sans-serif;
+  color: orange;
+  text-align: right;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  max-height: 90vh;
+  overflow-y: auto;
+"></div>
+
+<div id="gameWonPrompt" style="display:none; margin-top: 2rem;">
+  <p style="color: #80ff80; font-size: 2rem; font-weight: bold;">🎉 Gratulálunk, győztél! 🎉</p>
+  <p style="color: gold; font-size: 1.5rem;">Elérted a 15. szintet, nyereményed bekerült a toplistába!</p>
+  <button onclick="goToToplist()" style="
+    margin-top: 1rem;
+    padding: 1rem 2rem;
+    font-size: 1.3rem;
+    border-radius: 10px;
+    border: 2px solid gold;
+    background: darkgreen;
+    color: #fff;
+    cursor: pointer;
+  ">🏆 Nézd meg a toplistát</button>
+</div>
+<div id="audience-chart-wrapper" style="margin-top: 2rem; display: none;">
+  <div id="audience-chart" style="display: flex; justify-content: center; gap: 2rem;"></div>
+</div>
+</body>
+</html>

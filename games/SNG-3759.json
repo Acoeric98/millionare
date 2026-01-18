@@ -1,0 +1,47 @@
+{
+  "mode": "single",
+  "question_order": [
+    105,
+    161,
+    117,
+    144,
+    4,
+    96,
+    3,
+    125,
+    138,
+    160,
+    82,
+    94,
+    38,
+    118,
+    153
+  ],
+  "ready_for_next": false,
+  "current_index": 0,
+  "player_name": "Tomi",
+  "used_helps": {
+    "fifty": true,
+    "phone": false,
+    "audience": false
+  },
+  "answers": {
+    "0": "B"
+  },
+  "audience_votes": {},
+  "status": "ended",
+  "score": 0,
+  "check_performed": true,
+  "help_history": [
+    {
+      "type": "fifty",
+      "question_index": 0,
+      "timestamp": 1749052409.9640446
+    }
+  ],
+  "fifty_removed": [
+    "D",
+    "B"
+  ],
+  "check_feedback_visible": false
+}

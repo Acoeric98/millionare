@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kérdező – Vezérlőpult</title>
+  <script src="/millionare/script/host.js"></script>
+  <link rel="stylesheet" href="/millionare/style/host.css">
+</head>
+
+<body>
+  <div style="padding: 10px;">
+    <a href="/millionare/templates/menu.html" style="color: #0af; text-decoration: none; font-size: 18px;">
+      ⬅️ Vissza a főmenübe
+    </a>
+  </div>
+  <h1>Legyen Ön is Milliomos – Kérdező</h1>
+
+  <div id="gameIdDisplay"></div>
+  <div id="question">Kérdés betöltése...</div>
+  <div id="answers"></div>
+  <div id="correctAnswer"></div>
+  <div id="player-status">Várakozás a játékosra...</div>
+  <button id="checkBtn" onclick="checkAnswer()">✔ Ellenőrzés</button>
+  <button id="nextBtn" onclick="nextQuestion()" disabled>➡ Következő kérdés</button>
+  <button id="startTimerBtn" onclick="startTimer()">⏱ Timer indítása</button>
+</body>
+
+</html>

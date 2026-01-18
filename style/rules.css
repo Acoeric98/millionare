@@ -1,0 +1,8 @@
+  body { background-color: #000; color: #0f0; font-family: 'Segoe UI', sans-serif; padding: 2rem;       background-image: url("/millionare/img/milliomos.png");
+      background-repeat: no-repeat;
+      background-size: cover;}
+    h1 { text-align: center; margin-bottom: 2rem; }
+    h2 { margin-top: 2rem; }
+    p { margin: 1rem 0; }
+    ul { list-style: none; padding: 0; }
+    li::before { content: '✔️ '; }

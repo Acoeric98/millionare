@@ -1,0 +1,37 @@
+{
+  "mode": "single",
+  "question_order": [
+    66,
+    8,
+    37,
+    80,
+    117,
+    119,
+    153,
+    7,
+    90,
+    113,
+    104,
+    108,
+    32,
+    84,
+    39
+  ],
+  "ready_for_next": false,
+  "current_index": 0,
+  "player_name": "orangeban",
+  "used_helps": {
+    "fifty": false,
+    "phone": false,
+    "audience": false
+  },
+  "answers": {
+    "0": "C"
+  },
+  "audience_votes": {},
+  "status": "ended",
+  "score": 0,
+  "check_performed": true,
+  "help_history": [],
+  "check_feedback_visible": false
+}
